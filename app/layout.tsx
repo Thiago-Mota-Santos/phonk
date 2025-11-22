@@ -14,16 +14,16 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Ritmo Que Balança",
-  description: "Sinta o poder do Plonk: batidas modificadas misturadas com o melhor do funk brasileiro. Uma experiência sonora única.",
+  description: "Sinta o poder do Phonk: batidas modificadas misturadas com o melhor do funk brasileiro. Uma experiência sonora única.",
   openGraph: {
     title: "Ritmo Que Balança",
-    description: "Sinta o poder do Plonk: batidas modificadas misturadas com o melhor do funk brasileiro. Uma experiência sonora única.",
+    description: "Sinta o poder do Phonk: batidas modificadas misturadas com o melhor do funk brasileiro. Uma experiência sonora única.",
     images: [
       {
         url: "/api/og",
         width: 1200,
         height: 630,
-        alt: "Ritmo Que Balança - Plonk Brasil",
+        alt: "Ritmo Que Balança - Phonk Brasil",
       },
     ],
     type: "website",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Ritmo Que Balança",
-    description: "Sinta o poder do Plonk: batidas modificadas misturadas com o melhor do funk brasileiro. Uma experiência sonora única.",
+    description: "Sinta o poder do Phonk: batidas modificadas misturadas com o melhor do funk brasileiro. Uma experiência sonora única.",
     images: ["/api/og"],
   },
 };

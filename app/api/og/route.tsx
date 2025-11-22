@@ -55,7 +55,7 @@ export async function GET(request: NextRequest) {
                 opacity: '0.9',
               }}
             >
-              Sinta o poder do Plonk: batidas modificadas misturadas com o melhor do funk brasileiro. Uma experiência sonora única.
+              Sinta o poder do Phonk: batidas modificadas misturadas com o melhor do funk brasileiro. Uma experiência sonora única.
             </p>
           </div>
         </div>
