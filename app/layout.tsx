@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     description: "Sinta o poder do Phonk: batidas modificadas misturadas com o melhor do funk brasileiro. Uma experiência sonora única.",
     images: [
       {
-        url: "/api/og",
+        url: "/og-image.png",
         width: 1200,
         height: 630,
         alt: "Ritmo Que Balança - Phonk Brasil",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Ritmo Que Balança",
     description: "Sinta o poder do Phonk: batidas modificadas misturadas com o melhor do funk brasileiro. Uma experiência sonora única.",
-    images: ["/api/og"],
+    images: ["/og-image.png"],
   },
 };
 
